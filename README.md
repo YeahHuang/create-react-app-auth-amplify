@@ -1,3 +1,11 @@
+# Progress
+
+## 0913 - video playing with videos uploaded in AWS S3
+
+![video](src/images/video-playing-0916.gif)
+
+# Original README
+
 # Create-react-app with AWS Amplify Auth 
 
 This auth starter implements withAuthenticator HOC to provide a basic authentication flow for signing up signing in users as well as protected client side routing using AWS Amplify. Auth features: User sign up, User sign in, Multi-factor Authentication, User sign-out.
