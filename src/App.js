@@ -24,6 +24,9 @@ class App extends Component {
             Learn React
           </a>
         </header>
+    <video width="750" height="500" controls >
+      <source src="/Videos/jump.mp4" type="video/mp4"/>
+     </video>
       </div>
     );
   }
