@@ -1,0 +1,25 @@
+{
+    "shared": {
+        "resourceName": "myvodstreams"
+    },
+    "template": {
+        "name": "Amplify_Video_HLS.json"
+    },
+    "contentDeliveryNetwork": {
+        "enableDistribution": false
+    },
+    "permissions": {
+        "permissionSchema": [
+            "any"
+        ]
+    },
+    "cms": {
+        "overrideSchema": true,
+        "editAPI": true
+    },
+    "parameters": {
+        "authRoleName": {
+            "Ref": "AuthRoleName"
+        }
+    }
+}
